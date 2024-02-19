@@ -1,5 +1,5 @@
 # Ice_Gaming_Store
-The project analyzes video game success factors using data from the "Ice" online store to inform effective marketing strategies.
+The project analyzes video game success factors using data from the ice gaming store to inform effective marketing strategies.
 
 ## Goals
 
